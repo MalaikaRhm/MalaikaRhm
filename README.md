@@ -100,4 +100,4 @@ AI-assisted software engineering**.
 
 ## 📫 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Email](YOUR_EMAIL)
+[Email](mlaikaraheem03@gmail.com)
