@@ -1,6 +1,10 @@
-# Hi, I'm Malaika 👋
-
-### Computer Science Undergraduate | HCI | Software Quality | AI
+┌─────────────────────────────────────────────────┐
+│                                                 │
+│       M A L A I K A   R A H E E M               │
+│                                                 │
+│    COMPUTER SCIENCE • HCI • AI • QA             │
+│                                                 │
+└─────────────────────────────────────────────────┘
 
 I'm a Computer Science undergraduate interested in building reliable, 
 user-centered software and exploring the intersection of **Human-Computer 
